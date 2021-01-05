@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $heroku_api
-  app: lab-devopsbr
+  app: labdevopsbr
